@@ -87,5 +87,21 @@
      <a href="https://www.figma.com/proto/Ui5hDDB2jAiqOTSSmCeIRt/infinite-scrolling-text?page-id=0%3A1&node-id=10-50&viewport=557%2C-3497%2C0.18&scaling=scale-down">(Open in Figma)</a>
   </p>
           <br>
+                      <!--10-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/847372d36d28462df1f3a02925ec5db8f9efb4a5/resources/gif/Scrolling-Animation.gif" alt="" width="400" height="250">
+          </p>
+  <p font-weight:"bold" align="center">
+  Scrolling Carousel Animation.
+     <a href="https://www.figma.com/proto/Bk4WjNBUA3GhniN5RLYFG5/Untitled?page-id=0%3A1&node-id=1-2&viewport=536%2C370%2C0.64&scaling=scale-down">(Open in Figma)</a>
+  </p>
+          <br>            <!--11-->
+ <p align="center">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/847372d36d28462df1f3a02925ec5db8f9efb4a5/resources/gif/Clock-Animation.gif" alt="" width="400" height="250">
+          </p>
+  <p font-weight:"bold" align="center">
+  Clock-Animation.
+     <a href="https://www.figma.com/proto/FU1QiEo6QBWh7jHi9OKT17/Untitled?page-id=0%3A1&node-id=1-2&viewport=575%2C104%2C0.1&scaling=scale-down">(Open in Figma)</a>
+  </p>
 </body>
 </html>
