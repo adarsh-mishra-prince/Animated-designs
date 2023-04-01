@@ -1,7 +1,17 @@
-# Animated-designs
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="center">
+        <samp>&gt; <b>ANIMATED DESIGNS </b>
+        </samp>
+</h1>
+
+<hr>
+<br>
+
    <!--1-->
  <p align="center">
-           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/73f5b9c03dee5da2081cd3a4ab18cef39b310856/resources/gif/Vision%20Blur%20Effect.gif" alt="" width="400" height="250">
+           <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/73f5b9c03dee5da2081cd3a4ab18cef39b310856/resources/gif/Vision%20Blur%20Effect.gif" alt="LOADING..." width="400" height="250">
           </p>
   <p font-weight:"bold" align="center">
   Analytical chart.
@@ -58,7 +68,7 @@
   Analytical chart.
      <a href="https://www.figma.com/proto/WLgyYKtJkSZJfjeUKDMdAa/Chart?page-id=0%3A1&node-id=1-2&viewport=677%2C532%2C0.83&scaling=min-zoom&starting-point-node-id=1%3A2">(Open in Figma)</a>
   </p>
-          <br>    <   <!--8-->
+          <br>      <!--8-->
  <p align="center">
            <img src="https://github.com/adarsh-mishra-prince/adarsh-mishra-prince/blob/73f5b9c03dee5da2081cd3a4ab18cef39b310856/resources/gif/Intractive%20slider.gif" alt="" width="400" height="250">
           </p>
@@ -76,3 +86,5 @@
      <a href="https://www.figma.com/proto/WLgyYKtJkSZJfjeUKDMdAa/Chart?page-id=0%3A1&node-id=1-2&viewport=677%2C532%2C0.83&scaling=min-zoom&starting-point-node-id=1%3A2">(Open in Figma)</a>
   </p>
           <br>
+</body>
+</html>
